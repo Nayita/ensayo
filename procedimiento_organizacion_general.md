@@ -1,4 +1,4 @@
-# Procedimiento de organización general del Área de Planeación Colaborativa (APC), Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
+﻿# Procedimiento de organización general del Área de Planeación Colaborativa (APC), Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 
 * * *
 
@@ -26,7 +26,7 @@
 
 * Técnico académico
 * Investigador académico
-* Jéfe de área
+* Jéfe de área (Planeación Colaborativa)
 
 ## Descripción de actividades
 
