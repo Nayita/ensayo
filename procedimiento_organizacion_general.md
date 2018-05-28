@@ -231,3 +231,5 @@ Los colaboradores tienen que seguir las siguientes indicaciones:
 * La tarja que se encuentra en el pasillo está condicionada a no dejar trastes remojando en el área de la tarja y a no dejar trastes escurriendo sobre el escurridor, de lo contrario se van a tirar a la basura
 
 * * *
+
+Ediciones de último momentos para el ejercicio
