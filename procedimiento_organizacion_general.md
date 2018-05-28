@@ -8,6 +8,7 @@
 
 **Alcance:** Los colaboradores del APC del LANCIS deberán seguir el presente protocolo, el cual establece los procedimientos a seguir para la organización general del área.
 
+adios
 ## Términos, definiciones y abreviaturas:
 
 * Procedimiento: Forma específica para llevar a cabo una actividad
