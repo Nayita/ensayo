@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Colisión
+=======
+﻿# Procedi-miiiiiiento de organización general del Área de Planeación Colaborativa (APC), Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
+>>>>>>> f522bfc5b70b6cddd5f3d1ebda82b1a185882080
 
 * * *
 
@@ -27,7 +31,7 @@ adios
 
 * Técnico académico
 * Investigador académico
-* Jéfe de área
+* Jéfe de área (Planeación Colaborativa)
 
 ## Descripción de actividades
 
@@ -232,3 +236,5 @@ Los colaboradores tienen que seguir las siguientes indicaciones:
 * La tarja que se encuentra en el pasillo está condicionada a no dejar trastes remojando en el área de la tarja y a no dejar trastes escurriendo sobre el escurridor, de lo contrario se van a tirar a la basura
 
 * * *
+
+Ediciones de último momentos para el ejercicio
