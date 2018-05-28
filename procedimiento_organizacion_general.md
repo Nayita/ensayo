@@ -8,6 +8,7 @@
 
 **Alcance:** Los colaboradores del APC del LANCIS deberán seguir el presente protocolo, el cual establece los procedimientos a seguir para la organización general del área.
 
+adios
 ## Términos, definiciones y abreviaturas:
 
 * Procedimiento: Forma específica para llevar a cabo una actividad
@@ -231,3 +232,5 @@ Los colaboradores tienen que seguir las siguientes indicaciones:
 * La tarja que se encuentra en el pasillo está condicionada a no dejar trastes remojando en el área de la tarja y a no dejar trastes escurriendo sobre el escurridor, de lo contrario se van a tirar a la basura
 
 * * *
+
+Ediciones de último momentos para el ejercicio
