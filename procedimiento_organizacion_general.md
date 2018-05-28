@@ -1,4 +1,4 @@
-# Procedimiento de organización general del Área de Planeación Colaborativa (APC), Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
+# Colisión
 
 * * *
 
