@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-# Colisión
-=======
-﻿# Procedi-miiiiiiento de organización general del Área de Planeación Colaborativa (APC), Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
->>>>>>> f522bfc5b70b6cddd5f3d1ebda82b1a185882080
+
+
+﻿# Procedimiento de organización general del Área de Planeación Colaborativa (APC), Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
+
 
 * * *
 
